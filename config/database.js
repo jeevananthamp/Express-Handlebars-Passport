@@ -1,7 +1,7 @@
 if(process.env.NODE_ENV === 'production')
 {
 module.exports={
-    mongoURI:'mongodb+srv://kitkat:thbs123@cluster0-din5z.mongodb.net/test?retryWrites=true&w=majority'
+    mongoURI:"mongodb+srv://anshuman_chaurasia:test123@cluster0-9nuyr.mongodb.net/todolistDB"
 }
     console.log("Connected to databases");
 }
